@@ -26,12 +26,18 @@ for(var i = 0;i < array.length; i ++){
 //Example output:
 
 // Current value is 5
-// Current value is 15
-// Current value is 25
 
 for(var i = 5; i <= 120; i = i + 10){
 	console.log("current value ", i);
 }
+
+// Current value is 15
+
+
+
+// Current value is 25
+
+
 
 
 
